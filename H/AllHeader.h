@@ -20,6 +20,7 @@
 
 #include "delay.h"
 #include "oled.h"
+#include "oled_menu.h"
 #include "LS.h"
 #include "motor.h"
 #include "encoder.h"
